@@ -1,0 +1,5 @@
+********How to install OpenSSL Win64**********
+
+Download Win64OpenSSL-3_5_2.MSI
+
+Install -> System -> Advanced System Settings -> Environment Variables -> System Variables -> Path -> Edit -> New -> C:\Program Files\OpenSSL-Win64\bin -> Okay
